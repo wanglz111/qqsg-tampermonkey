@@ -1,4 +1,5 @@
 // ==UserScript==
+// @license      MIT License
 // @name         qqsg查询自动登录
 // @namespace    https://github.com/wanglz111/qqsg-tampermonkey
 // @version      1.0
