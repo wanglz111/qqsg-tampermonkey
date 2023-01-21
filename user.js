@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         qqsg查询自动登录
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/wanglz111/qqsg-tampermonkey
 // @version      1.0
 // @description  自动登录qqsg查询，用本人提供的key
 // @author       Lucas
